@@ -7,7 +7,9 @@
 CyberMoranda CIDS is a behavior-based defensive security system designed to understand suspicious activity through context and behavior rather than relying only on individual signatures or immediate binary blocking decisions.
 
 The goal is to build a security layer that can **observe, understand, assess, and respond** to potentially malicious behavior while minimizing unnecessary disruption to legitimate users.
-
+---
+## Demo video
+https://drive.google.com/file/d/1iy9DYE7hHfWmVzaOlzuIg8tDoWcKPCIQ/view?usp=drivesdk
 ---
 
 ## Why CIDS?
@@ -922,6 +924,3 @@ Cognitive Intrusion Detection System
 
 > Think Before You Act.
 
-
-###Demo video
-https://drive.google.com/file/d/1iy9DYE7hHfWmVzaOlzuIg8tDoWcKPCIQ/view?usp=drivesdk
