@@ -23,7 +23,7 @@ Azure AI is used as a post-analysis layer to explain security events in human la
 Live integration is intentionally not enabled in this MVP.
 Roadmap
 
-Core Detection & Analysis
+## Core Detection & Analysis
 
 - [x] Initial CIDS concept
 - [x] Initial MVP
